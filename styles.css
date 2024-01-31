@@ -44,5 +44,8 @@ a
 	color:#1877f2;
 }
 .signup
-{background-color:42b72a !important;
+{background-color:#42b72a;
+ border-radius:5px;
+	padding:10px 20px;
+ 
 }
